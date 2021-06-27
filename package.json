@@ -1,5 +1,6 @@
 {
   "name": "covid2021",
+  "homepage":"https://github.com/pawankharel99/covid19nepal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
